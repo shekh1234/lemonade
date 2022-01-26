@@ -1,7 +1,7 @@
-# Forum App in React & Redux + Django
+# Lemonade
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Lemonade (mini E-Commerce project), with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
