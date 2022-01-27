@@ -65,13 +65,13 @@ li {
   padding: 20px;
 }
 .name {
-  margin: 26%;
+  margin: 1%;
   text-decoration: none;
   color: black;
   position: absolute;
   font-size: 24px;
   top: 0%;
-  left: 25%;
+  left: 26%;
 }
 .price {
   margin: 13%;
