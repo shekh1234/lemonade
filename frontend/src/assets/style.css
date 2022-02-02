@@ -303,6 +303,7 @@ footer {
   z-index: 2;
   border: 1px solid rgba(194, 232, 194, 0.18823529411764706);
   width: 100%;
+  margin-top: 100%;
 }
 
 footer .subtotal {
@@ -352,6 +353,7 @@ footer button {
   footer {
     padding-top: 0.5%;
     padding-bottom: 0;
+    margin-top 100%;
   }
   footer button {
     right: 11%;
@@ -422,6 +424,7 @@ footer button {
     height: 34px;
     padding: 0;
     background-color: white;
+    margin-top: 100%
   }
   footer .subtotal {
     margin-top: -4px;
@@ -605,6 +608,7 @@ footer button {
   }
   footer {
     position: relative;
+    margin-top: 100%
   }
 
   footer button {
